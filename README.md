@@ -23,5 +23,19 @@ Celem jest edukacja i pomoc w przypadku zagrozenia, zmniejszenia eskalacji probl
 + offline: Forma do wydruku, grafy i tabele w cele ulatwienia znalezienia potrzebnej pomocy
 + online: aplikacja na android lub webowa
 
+## Informacje dla ofiar atakow oraz osob, ktore nie mialy takich doswiadczen
+
+### Zapobieganie
+
+### Szybka reakcja
+
+
+### Praktyczne cwiczenia, poligon doswiadczalny, 
+aplikacja - gra
+w celu sprawdzenia uzytkownika wiedzy oraz szybkosci reakcji na zdarzenia.
+
+Symulacje mozliwych scenariuszy, program do generowania takich zdarzen losowo lub strukturalnie
+
+
 
 
