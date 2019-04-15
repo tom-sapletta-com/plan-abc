@@ -16,4 +16,12 @@ Analiza rowniez co jest sytuacja wymagajaca reakcji, a co jest tylko pseudo atak
 + zamek sterowany zdalnie
 
 
+## Cel
+Celem jest edukacja i pomoc w przypadku zagrozenia, zmniejszenia eskalacji problemu w trakcie wystapienia
+
+## Uzycie
+offline: Forma do wydruku
+online: aplikacja na android lub webowa
+
+
 
