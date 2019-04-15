@@ -20,8 +20,8 @@ Analiza rowniez co jest sytuacja wymagajaca reakcji, a co jest tylko pseudo atak
 Celem jest edukacja i pomoc w przypadku zagrozenia, zmniejszenia eskalacji problemu w trakcie wystapienia
 
 ## Uzycie
-offline: Forma do wydruku
-online: aplikacja na android lub webowa
++ offline: Forma do wydruku, grafy i tabele w cele ulatwienia znalezienia potrzebnej pomocy
++ online: aplikacja na android lub webowa
 
 
 
